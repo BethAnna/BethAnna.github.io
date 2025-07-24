@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Systems Science & Mathematics, 2019-2024
+### Ph.D in Systems Science & Mathematics, 2019-2024
 
    <b>Thesis:</b> <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em>
 
@@ -20,7 +20,7 @@ Education
    St. Louis, MO</p>
 
    
-* B.S. in Applied Mathematics, minor in biomathematics, 2015-2019
+### B.S. in Applied Mathematics, minor in biomathematics, 2015-2019
 
    <b>Honors:</b> Magna Cum Laude
   
