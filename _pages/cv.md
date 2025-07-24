@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-Education
-======
+## Education
 ### Ph.D in Systems Science & Mathematics, 2019-2024 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Electrical & Systems Engineering<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Washington University in St. Louis<br>
