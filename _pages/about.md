@@ -12,8 +12,9 @@ Hello, I'm BethAnna! I am fascinated by the complex nature of the human brain an
 I also love to knit and crochet, and I am constantly working on new designs and projects. You can see those on [my Ravelry page](https://www.ravelry.com/designers/thompson-yarn-arts).  
 
 
-<!--I am particularly interested in working memory and understanding how biological, physiological, and psychological differences engender disease.
-<!--to study \
-<!--&nbsp;&nbsp;&nbsp; i) how finite neural resources should be allocated to incoming stimuli for the ongoing management and temporary storage of stimuli for decision making and downstream cognition; \
-<!--&nbsp;&nbsp;&nbsp; ii) what network dynamics are associated with optimal gating of stimuli; and \
-<!--&nbsp;&nbsp;&nbsp; iii) the interplay of working memory, including encoding and retention, with other key cognitive functions such as attention. 
+<!--
+I am particularly interested in working memory and understanding how biological, physiological, and psychological differences engender disease.
+to study \
+&nbsp;&nbsp;&nbsp; i) how finite neural resources should be allocated to incoming stimuli for the ongoing management and temporary storage of stimuli for decision making and downstream cognition; \
+&nbsp;&nbsp;&nbsp; ii) what network dynamics are associated with optimal gating of stimuli; and \
+&nbsp;&nbsp;&nbsp; iii) the interplay of working memory, including encoding and retention, with other key cognitive functions such as attention. -->
