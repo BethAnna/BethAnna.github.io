@@ -2,19 +2,10 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/fall-2024
+venue: "Washington University in St. Louis, Department of Electrical & Systems Engineering"
+date: 2014-08-01
+location: "Saint Louis, MO, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+After my dissertation defense I acted as an adjunct instructor for a freshman-level course in Electrical & Systems Engineering. This course focused on building a strong foundation for students in practical engineering skills and knowledge, covering topics from software design and linear algebra to dynamical systems and modeling. In this position, I managed everything for the smooth running of the course: I designed homework, labs, and case studies as well as their respective solutions; collaborated with the main instructor to accomplish pedagogical goals as well as occasionally lecture; coordinated and oversaw the team of undergraduate teaching assistants and graders; and worked with students directly in weekly office hours and coding lab sessions.
