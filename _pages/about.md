@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm BethAnna! I am fascinated by the complex nature of the human brain and its capacity to store, process, and manipulate a multitude of noisy information in real time. These functions, collectively referred to as working memory, empower learning, decision-making, and downstream cognition. As an electrical and systems engineer by training, my work utilizes optimization and control-theoretic dynamical modeling to gain mechanistic and systems-level understanding of neural function. Check out my publications (or send me a message!) for more info. 
+Hello, I'm BethAnna! I am fascinated by the complex nature of the human brain and its capacity to store, process, and manipulate a multitude of noisy information in real time. These functions, collectively referred to as working memory, empower learning, decision-making, and downstream cognition. As an electrical and systems engineer by training, my work utilizes optimization and control-theoretic dynamical modeling to gain mechanistic and systems-level understanding of neural function. Check out my [CV](https://bethanna.github.io/cv/) and [Publications](https://bethanna.github.io/publications/) for more info -- or send me a message! 
 
 I also love to knit and crochet, and I am constantly working on new designs and projects. You can see those on [my Ravelry page](https://www.ravelry.com/designers/thompson-yarn-arts).  
 
