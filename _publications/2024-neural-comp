@@ -6,7 +6,7 @@ permalink: /publication/2024-neural-comp
 excerpt: 'A key question in the neuroscience of memory encoding pertains to the mechanisms by which afferent stimuli are allocated within memory networks. This issue is especially pronounced in the domain of working memory, where capacity is finite. Presumably the brain must embed some "policy" by which to allocate these mnemonic resources in an online manner in order to maximally represent and store afferent information for as long as possible and without interference from subsequent stimuli... Our results suggest how online, recurrent networks working on temporally localized objectives without high-level supervision can nonetheless implement efficient allocation of memory resources over time.'
 date: 2024-05-01
 venue: 'Neural Computation'
-paperurl: 'BethAnna/files/2024-neural-comp-jones.pdf'
+paperurl: 'http://bethanna.github.io/files/2024-neural-comp-jones.pdf'
 bibtexurl: 'http://bethanna.github.io/files/2024-neural-comp-jones.bib'
 citation: 'Jones, B., Snyder, L., and Ching, S. ‘Heterogeneous forgetting rates and greedy allocation in slot-based memory networks promotes signal retention,’ Neural Computation, vol. 36, no. 5, pp. 1022–1040, May 2024. doi:10.1162/neco_a_01655'
 ---
