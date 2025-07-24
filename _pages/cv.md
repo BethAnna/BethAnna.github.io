@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Systems Science & Mathematics, 2019-2024
+
+   <b>Thesis:</b> <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em>
+
+   <p>Department of Electrical & Systems Engineering<br>
+   Washington University in St. Louis<br>
+   St. Louis, MO</p>
+
+   
+* B.S. in Applied Mathematics, minor in biomathematics, 2015-2019
+
+   <b>Honors:</b> Magna Cum Laude
+  
+   <p>Department of Mathematics <br>
+   State University of New York at Geneseo <br>
+   Geneseo, NY</p>
+
 
 Work experience
 ======
