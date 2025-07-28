@@ -15,6 +15,15 @@ I am fascinated by the complex nature of the human brain and its capacity to sto
 I also love to knit and crochet, and I am constantly working on new projects and designs. You can see those on [my Ravelry page](https://www.ravelry.com/designers/thompson-yarn-arts).  
 
 
+### Highlighted Awards:
+* NSF Graduate Research Fellow, 2020-2024
+* MAA _Outstanding Student Paper Session_ (Joint Math Meetings 2019)
+* BIOSIGMAA’s _Janet L. Anderson Award for Undergraduate Research in Mathematics or Computational Biology_ (MAA MathFest 2018)
+
+ 
+
+
+
 <!--
 I have always been fascinated by networks and 
 
