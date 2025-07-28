@@ -8,3 +8,4 @@ date: 2022-12-09
 location: "Cancun, Mexico"
 ---
 
+Talk with [associated paper](https://ieeexplore.ieee.org/document/9993238) (published in conference proceedings). 
