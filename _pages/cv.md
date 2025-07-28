@@ -9,20 +9,21 @@ redirect_from:
 
 ## Education
 ### Ph.D in Systems Science & Mathematics, 2019-2024 
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Thesis:</b> <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em>
+   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Electrical & Systems Engineering<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Washington University in St. Louis<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; St. Louis, MO  <br>
-   
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Thesis:</b> <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em>
 
    
 ### B.S. in Applied Mathematics, minor in biomathematics, 2015-2019
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Honors:</b> Magna Cum Laude
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Mathematics <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State University of New York at Geneseo <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geneseo, NY <br>
-
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Honors:</b> Magna Cum Laude
 
 
 Work experience
