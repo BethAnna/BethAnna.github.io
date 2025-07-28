@@ -1,7 +1,7 @@
 ---
 title: "[Synthesizing network dynamics for short-term memory of impulsive inputs](https://doi.org/10.1109/CDC51059.2022.9993238)"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-CDC22-jones
 excerpt: 'We consider the specific problem of how the dynamics of networks can enact a representation of input stimuli that is retained over time, i.e., a form of short-term memory. We utilize modeling and control-theoretic methods to approach these questions, treating the state trajectory of a dynamical system as an abstract memory trace of prior inputs.'
 date: 2022-12-06
