@@ -12,7 +12,7 @@ author_profile: true
 ### Introduction to Electrical and Systems Engineering (ESE 105)
 <p> Undergraduate course, <i>Washington University in St. Louis, Department of Electrical & Systems Engineering</i>, Saint Louis, MO, USA</p>
 
-This course focused on building a strong and rigorous foundation for students in practical engineering skills and knowledge, covering topics from software design (MATLAB) and linear algebra to dynamical systems and modeling.
+This course focused on building a strong and rigorous foundation for students in practical engineering skills and knowledge, covering topics from linear algebra and software design (in MATLAB) to dynamical systems and modeling.
 
 #### Instructor - Fall 2024 
 After my dissertation defense I acted as an adjunct instructor.  In this position, I managed everything for the smooth running of the course: I designed homework, labs, and case studies as well as their respective solutions; collaborated with the main instructor to accomplish pedagogical goals as well as occasionally lecture; coordinated and oversaw the team of undergraduate teaching assistants and graders; and worked with students directly in weekly office hours and coding lab sessions.
