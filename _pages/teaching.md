@@ -9,40 +9,27 @@ author_profile: true
 
 
 
-#### Introduction to Electrical and Systems Engineering (ESE 105)"
+### Introduction to Electrical and Systems Engineering (ESE 105)
 <p> Undergraduate course, <i>Washington University in St. Louis, Department of Electrical & Systems Engineering</i>, Saint Louis, MO, USA</p>
 
 This course focused on building a strong and rigorous foundation for students in practical engineering skills and knowledge, covering topics from software design (MATLAB) and linear algebra to dynamical systems and modeling.
 
-## Instructor, Fall 2024 
+#### Instructor - Fall 2024 
 After my dissertation defense I acted as an adjunct instructor.  In this position, I managed everything for the smooth running of the course: I designed homework, labs, and case studies as well as their respective solutions; collaborated with the main instructor to accomplish pedagogical goals as well as occasionally lecture; coordinated and oversaw the team of undergraduate teaching assistants and graders; and worked with students directly in weekly office hours and coding lab sessions.
 
 
-## Teaching Assistant, Fall 2022
-Weekly recitations; grading case studies; holding office hours.
+#### Teaching Assistant - Fall 2022
+Duties: Weekly recitations; grading case studies; holding office hours.
 
 
 
 
 
-#### Nonlinear Dynamic Systems (ESE 553)"
+### Nonlinear Dynamic Systems (ESE 553)
 <p> Undergraduate course, <i>Washington University in St. Louis, Department of Electrical & Systems Engineering</i>, Saint Louis, MO, USA</p>
 
 State space and functional analysis approaches to nonlinear systems. 
 
-## Teaching Assistant, Spring 2020
+#### Teaching Assistant - Spring 2020
 Duties: Weekly office hours; grading homeworks. 
-
-
-
-
-
-</--
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
--->
 
