@@ -19,7 +19,7 @@ After my dissertation defense I acted as an adjunct instructor.  In this positio
 
 
 ### Teaching Assistant - Fall 2022
-Duties: Weekly recitations; grading case studies; holding office hours.
+Weekly recitations; grading case studies; holding office hours.
 
 
 
@@ -31,5 +31,5 @@ Duties: Weekly recitations; grading case studies; holding office hours.
 State space and functional analysis approaches to nonlinear systems. 
 
 ### Teaching Assistant - Spring 2020
-Duties: Weekly office hours; grading homeworks. 
+Weekly (virtual) office hours; grading homeworks. 
 
