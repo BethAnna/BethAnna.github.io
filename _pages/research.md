@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Doctoral Research
+## Doctoral Research **(2019-2024)**
 **Thesis:** <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em> <br>
 **Advisor:** Dr. ShiNung Ching <br>
 **Affiliation:** Department of Electrical & Systems Engineering, Washington University in St. Louis <br>
@@ -32,7 +32,7 @@ author_profile: true
 **Advisor:** Dr. Cesar Aguilar <br> 
 **Affiliation:** Department of Mathematics, State University of New York (SUNY) Geneseo <br>
 
-  * 
+  * Investigated the  research in graph theory on the to establish bounds on the density and connectivity of regular graphs.
   
    
 ### Independent Study
@@ -52,7 +52,9 @@ author_profile: true
 **Advisor:** Dr. Mark Reimers <br> 
 **Affiliation:** Michigan State Univeristy <br>
 
-  * Software development for an open-source package to identify individual neural cells in 2-photon images
+  * Team research project using image and signal processing techniques to develop software that identifies individual neural cells in 2-photon images. 
+  * Work presented at and
+  * 
     * Image processing techniques (singular value decomposition, constrained matrix factorization, e.g.)
     * Graphical user interface design
     * Boundary definition
