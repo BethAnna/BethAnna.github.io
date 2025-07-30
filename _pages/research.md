@@ -10,18 +10,8 @@ author_profile: true
 **Advisor:** Dr. ShiNung Ching <br>
 **Affiliation:** Department of Electrical & Systems Engineering, Washington University in St. Louis <br>
 
-  * Designed constrained recurrent dynamical system models of neural circuits that embed functional principles
-    * Framing open-ended real-world problems into well-defined control problems
-  * Synthesized adaptive networks that evolve with contextual demands and optimize information coding using trained connections
-    * (Non)linear optimization and control
-    * Neural network AI
-    * Pythonic simulation
-    * Signal processing and representation
-    * Proximal methods
-    * Backpropagation
+  * Conducted PhD research in brain dynamics and controls, using theoretical modeling and optimization to study neural mechansims of working memory. 
   * Characterized resulting network properties, architecture, and activity, and linked to popular theories of information encoding, processing, and retention in large-scale networks
-    * Numerical and linear analysis
-    * Data interpretation for real-world application and insight
   * Dissertation defense completed August 27, 2024
 
 
