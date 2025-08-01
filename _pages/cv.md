@@ -96,7 +96,7 @@ redirect_from:
 
 **Other**
 * [May 2019]	Class presentation (Wavelets & Their Applications), SUNY Geneseo: “Chuck Close Style Digital Portraits”
-* [April 2019]	Geneseo Recognizing Excellence, Achievement & Talent Day 2019, SUNY Geneseo: [“Describing Convex Polyhedral Growth”]((http://bethanna.github.io/files/Eigenvalue_Bounds_on_Regular_Graphs__vertical_.pdf))
+* [April 2019]	Geneseo Recognizing Excellence, Achievement & Talent Day 2019, SUNY Geneseo: [“Describing Convex Polyhedral Growth”](http://bethanna.github.io/files/Eigenvalue_Bounds_on_Regular_Graphs__vertical_.pdf)
 * [Sept 2018]	SUNY Geneseo colloquium: [“This is Your Brain on Math: The Mathematics of Tracking Neurons”](https://bethanna.github.io/talks/2018-09-18-talk)
 * [May 2018]	Class presentation (Linear Programming & Operations Research), SUNY Geneseo: “Genetic Algorithms” 
 * [May 2018]	Class presentation (Numerical Analysis), SUNY Geneseo: “The Inverse Power Method” 
