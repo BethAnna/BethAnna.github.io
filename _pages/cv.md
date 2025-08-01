@@ -82,6 +82,7 @@ redirect_from:
 * [2016-2019]	_Phi Eta Sigma member, SUNY Geneseo_ <br>
 * [2015-2019]	_Clark Foundation Scholarship, scholar standing_ <br>
 * [2015-2019] _President’s and Dean’s Lists, SUNY Geneseo_ <br>
+* [2015] _High-school valedictorian_
 
 
 ## Talks
