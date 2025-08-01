@@ -1,7 +1,7 @@
 ---
 title: "Eigenvalue Bounds on Regular Graphs"
 collection: talks
-type: "Colloquium seminar"
+type: "Talk"
 permalink: /talks/2018-EigBounds-talk
 venue: "SUNY Geneseo"
 date: 2018-04-17
