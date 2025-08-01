@@ -104,15 +104,14 @@ Please see my [Talks](https://bethanna.github.io/talks/) page for more info.
 **Conference activity**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
 * [June 2022]	BRAIN Initiative Meeting 2022: ["Optimal network dynamics for establishing memory traces of multivariate stimuli"](https://bethanna.github.io/talks/2022-06-21-talk)
-* [Jan 2019]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: “Tracking Neural Activity: Automated Image Analysis” 
-* [Jan 2019]	Joint Math Meetings, Baltimore, MD: “Tracking Neural Activity: Automated Image Analysis.” With honors: _MAA’s Mathematical Association of America (MAA) Outstanding Student Paper Session_
-* [Aug 2018]	MAA MathFest, Denver, CO: “Tracking Neural Activity: Automated Image Analysis” 
-Honors: BIOSIGMAA’s Janet L. Anderson Award for Undergraduate Research in Mathematics or Computational Biology
-* [Jan 2018]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: “Eigenvalue Bounds of Regular Graphs”
+* [Jan 2019]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) 
+* [Jan 2019]	Joint Math Meetings, Baltimore, MD: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) With honors: _MAA’s Mathematical Association of America (MAA) Outstanding Student Paper Session_
+* [Aug 2018]	MAA MathFest, Denver, CO: “Tracking Neural Activity: Automated Image Analysis.” With honors: _BIOSIGMAA’s Janet L. Anderson Award for Undergraduate Research in Mathematics or Computational Biology_
+* [Jan 2018]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/files/2018-EigBounds-talk) 
 
 **Other**
 * [May 2019]	Class presentation (Wavelets & Their Applications), SUNY Geneseo: “Chuck Close Style Digital Portraits”
-* [April 2019]	Geneseo Recognizing Excellence, Achievement & Talent Day 2019, SUNY Geneseo: “Describing Convex Polyhedral Growth”
+* [April 2019]	Geneseo Recognizing Excellence, Achievement & Talent Day 2019, SUNY Geneseo: [“Describing Convex Polyhedral Growth”]((http://bethanna.github.io/files/Eigenvalue_Bounds_on_Regular_Graphs__vertical_.pdf))
 * [Sept 2018]	SUNY Geneseo colloquium: [“This is Your Brain on Math: The Mathematics of Tracking Neurons”](https://bethanna.github.io/talks/2018-09-18-talk)
 * [May 2018]	Class presentation (Linear Programming & Operations Research), SUNY Geneseo: “Genetic Algorithms” 
 * [May 2018]	Class presentation (Numerical Analysis), SUNY Geneseo: “The Inverse Power Method” 
