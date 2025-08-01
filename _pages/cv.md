@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Education
-### Ph.D in Systems Science & Mathematics, 2019-2024 
+
+Education
+======
+**Ph.D in Systems Science & Mathematics** (2019-2024)
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Thesis:</b> <em>Synthesis of neuronal network dynamics for optimal stimulus encoding and retention.</em>
    
@@ -16,8 +18,9 @@ redirect_from:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Washington University in St. Louis<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; St. Louis, MO  <br>
 
+
    
-### B.S. in Applied Mathematics, minor in biomathematics, 2015-2019
+**B.S. in Applied Mathematics, minor in biomathematics** (2015-2019)
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Honors:</b> Magna Cum Laude
   
@@ -26,6 +29,40 @@ redirect_from:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geneseo, NY <br>
 
 
+Skills
+======
+* Software & Object-Oriented Programming 
+  * Python (NumPy, SciPy, PyTorch, TensorFlow, ... )
+  * MATLAB 
+  * Unix 
+* Dynamical Systems & Control
+  * Time-varying (non-stationary) dynamics and input
+* Optimization
+  * Constrained, linear and nonlinear, large-scale
+  * Direct and iterative methods and analyses, proximal methods
+* Differential Calculus & Linear Algebra
+  * Matrix and eigenvalue/singular value decompositions and factorizations
+* Modeling & Simulation
+  * Framing open-ended real-world problems into well-defined control problems
+  * Extracting functional insight
+* Signal & Image Processing
+* Machine Learning
+  * Backpropogation, supervised and unsupervised learning
+* Figure Creation & Typesetting
+  * InkScape, Tikz, Adobe Fresco 
+  * LaTeX, MS Word
+* Soft Skills
+  * Team player: active listener, kind, collaborative, adaptable
+  * Problem-solver: critical-thinker, creative, capable of self-teaching 
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  
 Work experience
 ======
 * Fall 2024: Adjunct Instructor
@@ -36,21 +73,6 @@ Work experience
   * Department of Student Life, SUNY Geneseo
   * Duties: overseeing other employees; acting as the go-to for various building and administrative duties
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
