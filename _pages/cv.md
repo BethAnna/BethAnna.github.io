@@ -72,7 +72,6 @@ redirect_from:
   * Duties: overseeing other employees; acting as the go-to for various building and administrative duties
 
 
-
 ## Honors & Awards:
 * [2019-2024] _NSF Graduate Research Fellow_ <br>
 * [May 2019] _SUNY Geneseo’s Excellence in Mathematics Award_ <br>
@@ -85,21 +84,7 @@ redirect_from:
 * [2015-2019] _President’s and Dean’s Lists, SUNY Geneseo_ <br>
 
 
-Service and leadership
-======
-* [2023-2025] Founding member of student-led Electrical & System Engineering (ESE) PhD Advisory Board, Washington University in St. Louis
-* [2020-2025]	Regular participant in outreach programs through Washington University to high school as well as undergraduate students. 
-* [2018-2019]	Helped establish a SUNY Geneseo chapter of Association for Women in Mathematics 
-* [2017-2019]	Young Life leader
-* [Jan/Aug 2018]	Geneseo Opportunities for Leadership Development Leadership Symposium, SUNY Geneseo
-* [Mar 2018]	Volunteer at New York State Mathematics League (NYSML) 2018, SUNY Geneseo
-* [2017-2018]	Tiered Mentorship Program — regularly advised by a math professor for career development, and in turn worked with two younger math majors myself — mentorship, networking
-* Regular volunteering in high-school
-
-
-
 ## Talks
-Please see my [Talks](https://bethanna.github.io/talks/) page for more info.
 
 **Conference activity**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
@@ -119,8 +104,19 @@ Please see my [Talks](https://bethanna.github.io/talks/) page for more info.
 * [April 2018]	Geneseo Recognizing Excellence, Achievement & Talent Day 2018, SUNY Geneseo: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/files/2018-EigBounds-talk) 
 
 
-
   
 ## Teaching
 Please see my [Teaching](https://bethanna.github.io/teaching/) page.
+
+
+## Service and leadership
+* [2023-2025] Founding member of student-led Electrical & System Engineering (ESE) PhD Advisory Board, Washington University in St. Louis
+* [2020-2025]	Regular participant in outreach programs through Washington University to high school as well as undergraduate students. 
+* [2018-2019]	Helped establish a SUNY Geneseo chapter of Association for Women in Mathematics 
+* [2017-2019]	Young Life leader
+* [Jan/Aug 2018]	Geneseo Opportunities for Leadership Development Leadership Symposium, SUNY Geneseo
+* [Mar 2018]	Volunteer at New York State Mathematics League (NYSML) 2018, SUNY Geneseo
+* [2017-2018]	Tiered Mentorship Program — regularly advised by a math professor for career development, and in turn worked with two younger math majors myself — mentorship, networking
+* Regular volunteering in high-school
+
 
