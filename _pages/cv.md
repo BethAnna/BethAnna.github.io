@@ -85,9 +85,9 @@ redirect_from:
 * [2015] _High-school valedictorian_
 
 
-## Talks
+## Talks & Conference Activity
 
-**Conference activity**
+**Conference**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
 * [June 2022]	BRAIN Initiative Meeting 2022: ["Optimal network dynamics for establishing memory traces of multivariate stimuli"](https://bethanna.github.io/talks/2022-06-21-talk)
 * [Jan 2019]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) 
