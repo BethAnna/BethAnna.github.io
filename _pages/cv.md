@@ -72,7 +72,7 @@ redirect_from:
   * Duties: overseeing other employees; acting as the go-to for various building and administrative duties
 
 
-## [Honors & Awards](#awards)
+## Honors & Awards {#awards}
 * [2019-2024] _NSF Graduate Research Fellow_ <br>
 * [May 2019] _SUNY Geneseo’s Excellence in Mathematics Award_ <br>
 * [Jan 2019] _Mathematical Association of America (MAA) Outstanding Student Paper Session, presented at the Joint Math Meetings 2019, Baltimore, MD_ <br>
@@ -85,7 +85,7 @@ redirect_from:
 * [2015] _High-school valedictorian_
 
 
-## [Talks](#talks)
+## Talks & Conference Activity {#talks}
 
 **Conference**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
