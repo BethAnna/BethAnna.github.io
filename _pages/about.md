@@ -15,11 +15,7 @@ I love using math and engineering as languages to describe natural phenomenoa an
 
 
 ## Research Interests:
-{% capture research_content %}
-  {% include_relative ../files/research-interests.md %}
-{% endcapture %}
-
-{{ research_content | markdownify }}
+Dynamical Systems, Control, Optimization, Modeling, Memory, Computational Neuroscience, Information Processing, Efficient Systems / AI Design, Sustainability
 
 
 ## Highlighted Awards, Skills, and Activities:
