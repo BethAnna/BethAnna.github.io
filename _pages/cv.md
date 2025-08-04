@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-## Publications
+## [Publications](#publications)
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -62,7 +62,7 @@ redirect_from:
   * Problem-solver: critical-thinker, creative, capable of self-teaching 
 
   
-## Work experience
+## [Work experience](#experience)
 * Fall 2024: Adjunct Instructor
   * Department of Electrical & Systems Engineering, Washington University in St. Louis
   * Duties: working directly with students in lectures and office hours; designing homeworks, coding labs, and case studies as well as respective solutions; overseeing the team of undergraduate teaching assistants; collaborating with main instructor to advance pedagogical goals.
@@ -72,7 +72,7 @@ redirect_from:
   * Duties: overseeing other employees; acting as the go-to for various building and administrative duties
 
 
-## Honors & Awards:
+## [Honors & Awards](#awards)
 * [2019-2024] _NSF Graduate Research Fellow_ <br>
 * [May 2019] _SUNY Geneseo’s Excellence in Mathematics Award_ <br>
 * [Jan 2019] _Mathematical Association of America (MAA) Outstanding Student Paper Session, presented at the Joint Math Meetings 2019, Baltimore, MD_ <br>
@@ -85,7 +85,7 @@ redirect_from:
 * [2015] _High-school valedictorian_
 
 
-## Talks & Conference Activity
+## [Talks & Conference Activity](#talks)
 
 **Conference**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
@@ -106,11 +106,11 @@ redirect_from:
 
 
   
-## Teaching
+## [Teaching](#teaching)
 Please see my [Teaching](https://bethanna.github.io/teaching/) page.
 
 
-## Service and leadership
+## [Service and leadership](#service)
 * [2023-2025] Founding member of student-led Electrical & System Engineering (ESE) PhD Advisory Board, Washington University in St. Louis
 * [2020-2025]	Regular participant in outreach programs through Washington University to high school as well as undergraduate students. 
 * [2018-2019]	Helped establish a SUNY Geneseo chapter of Association for Women in Mathematics 
