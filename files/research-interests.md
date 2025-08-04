@@ -1,0 +1,9 @@
+- Dynamical Systems
+- Control
+- Optimization
+- Modeling
+- Memory
+- Computational Neuroscience
+- Information Processing
+- Efficient Systems / AI Design
+- Sustainability
