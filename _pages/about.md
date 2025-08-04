@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm BethAnna! 
 
-I love using math and engineering as languages to describe natural phenomenoa and expand our knowledge about the world. I believe knowledge and hard work both _enable_ and _inspire_ innovative solutions to real-world problems, enacting positive change (be it big or small) in the everyday lives of us and our loved ones. This has been, and continues to be, my motivation for all I do. Check out my [Publications](https://bethanna.github.io/publications/) and [Research](https://bethanna.github.io/research/) pages for more information about my work--or send me a message!  <br>
+I love using math and engineering as languages to describe natural phenomenoa and expand our knowledge about the world. I believe knowledge and hard work both _enable_ and _inspire_ innovative solutions to real-world problems, enacting positive change (be it big or small) in the everyday lives of us and our loved ones. This has been, and continues to be, my motivation for all I do. Check out my [Publications](https://bethanna.github.io/publications/) and [Research](https://bethanna.github.io/research/) pages for more information about my work -- or send me a message!  <br>
 
 <!-- I also love to knit and crochet, and I am constantly working on new projects and designs. You can see those on [my Ravelry page](https://www.ravelry.com/designers/thompson-yarn-arts).  -->
 
