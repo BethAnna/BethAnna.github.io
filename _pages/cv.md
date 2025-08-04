@@ -93,7 +93,7 @@ redirect_from:
 * [Jan 2019]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) 
 * [Jan 2019]	Joint Math Meetings, Baltimore, MD: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) <br> _<u>With honors:</u>  MAA’s Mathematical Association of America (MAA) Outstanding Student Paper Session_
 * [Aug 2018]	MAA MathFest, Denver, CO: [“Tracking Neural Activity: Automated Image Analysis.”](https://bethanna.github.io/talks/2018-09-18-talk) <br> _<u>With honors:</u> BIOSIGMAA’s Janet L. Anderson Award for Undergraduate Research in Mathematics or Computational Biology_
-* [Jan 2018]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/files/2018-EigBounds-talk) 
+* [Jan 2018]	Nebraska Conference for Undergraduate Women in Mathematics, Lincoln, NE: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/talks/2018-EigBounds-talk) 
 
 **Other**
 * [May 2019]	Class presentation (Wavelets & Their Applications), SUNY Geneseo: “Chuck Close Style Digital Portraits”
@@ -102,7 +102,7 @@ redirect_from:
 * [May 2018]	Class presentation (Linear Programming & Operations Research), SUNY Geneseo: “Genetic Algorithms” 
 * [May 2018]	Class presentation (Numerical Analysis), SUNY Geneseo: “The Inverse Power Method” 
 * [April 2018]	Geneseo Recognizing Excellence, Achievement & Talent Day 2018, SUNY Geneseo: “Analysis of Factors Affecting Multi-Drug-Resistant Tuberculosis in Susceptible Populations”
-* [April 2018]	Geneseo Recognizing Excellence, Achievement & Talent Day 2018, SUNY Geneseo: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/files/2018-EigBounds-talk) 
+* [April 2018]	Geneseo Recognizing Excellence, Achievement & Talent Day 2018, SUNY Geneseo: [“Eigenvalue Bounds of Regular Graphs”](http://bethanna.github.io/talks/2018-EigBounds-talk) 
 
 
   
