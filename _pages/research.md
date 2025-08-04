@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am interested in large-system structure and how the architechture, dynamical activity, and allocation of finite resources not only enable the implementation of different functions, but affect efficiency, robustness, and task felxibility.  
+I am interested in large-system structure and how the architechture, dynamical activity, and allocation of finite resources not only enable the implementation of different functions, but affect efficiency, robustness, and task flexibility.  
 
 I am particularly fascinated by how the complex time-varying activity of the human brain engenders our capacity to store, process, and manipulate a multitude of noisy information in real time. These cognitive functions –- collectively referred to as working memory –- empower learning, decision-making, and downstream cognition. Insight into these processes form the bedrock for understanding cognitive ability on a biological, physiological, and psychological basis, and consequently inform actionable approaches to not only patient care and mental health, but also the development of efficient and responsible AI, effective teaching, and more. My research works to bridge the gap between neuroscience and engineering to gain mechanistic and systems-level understanding of neural function.
 
