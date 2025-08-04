@@ -85,7 +85,7 @@ redirect_from:
 * [2015] _High-school valedictorian_
 
 
-## [Talks & Conference Activity](#talks)
+## [Talks](#talks)
 
 **Conference**
 * [Dec 2022]	Peer-reviewed conference paper, Conference on Decision and Control (CDC) 2022: ["Synthesizing network dynamics for short-term memory of impulsive inputs"](https://bethanna.github.io/talks/2022-12-09-talk)
