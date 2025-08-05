@@ -34,6 +34,9 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+  
+## [Media](#media)
+Jones, B., & Schwamb, A. (2024, November 13). _Engineering the Future: Engineering Brain Dynamics with Addison Schwamb and BethAnna Jones_ (S. Ballard, Interviewer). https://open.spotify.com/episode/1Bf3Gj1005bkIOkTXvITgL?si=f5Wevmo9SYWnAZjM4G6AcA
 
   
 ## [Skills](#skills)
