@@ -55,11 +55,12 @@ Jones, B., & Schwamb, A. (2024, November 13). [_Engineering the Future: Engineer
   * Framing open-ended real-world problems into well-defined control problems
   * Extracting functional insight
 * Signal & Image Processing
+* Statistical & Probabilistic Analysis and Methods
 * Machine Learning
   * Backpropogation, supervised and unsupervised learning
 * Figure Creation & Typesetting
   * InkScape, Tikz, Adobe Fresco 
-  * LaTeX, MS Word
+  * LaTeX, MS Word, vim
 * Soft Skills
   * Team player: active listener, kind, collaborative, adaptable
   * Problem-solver: critical-thinker, creative, capable of self-teaching 
