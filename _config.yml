@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "lsch-29.jpg"
   name             : "BethAnna Thompson (Jones)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : ""
   location         : "Saint Louis, MO, USA"
   employer         : # 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/elisabeth-bethanna-thompson-jones-phd-b96994156/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
