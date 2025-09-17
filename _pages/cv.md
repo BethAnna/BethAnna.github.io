@@ -45,17 +45,19 @@ Jones, B., & Schwamb, A. (2024, November 13). [_Engineering the Future: Engineer
   * MATLAB 
   * Unix 
 * Dynamical Systems & Control
+  * Linear and nonlinear system design and analysis (behavior, Lyapunov stability, solution space, linearization, etc)
   * Time-varying (non-stationary) dynamics and input
 * Optimization
   * Constrained, linear and nonlinear, large-scale
   * Direct and iterative methods and analyses, proximal methods
 * Differential Calculus & Linear Algebra
   * Matrix and eigenvalue/singular value decompositions and factorizations
+  * Continuity, minima/maxima, etc. 
 * Modeling & Simulation
   * Framing open-ended real-world problems into well-defined control problems
   * Extracting functional insight
 * Signal & Image Processing
-* Statistical & Probabilistic Analysis and Methods
+* Statistical & Probabilistic Data Analysis and Methods
 * Machine Learning
   * Backpropogation, supervised and unsupervised learning
 * Figure Creation & Typesetting
