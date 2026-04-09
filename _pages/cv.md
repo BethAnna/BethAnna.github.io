@@ -73,9 +73,15 @@ Jones, B., & Schwamb, A. (2024, November 13). [_Engineering the Future: Engineer
   * Department of Electrical & Systems Engineering, Washington University in St. Louis
   * Duties: working directly with students in lectures and office hours; designing homeworks, coding labs, and case studies as well as respective solutions; overseeing the team of undergraduate teaching assistants; collaborating with main instructor to advance pedagogical goals.
 
+* 2026 Accounts Receivable 
+  * Grimco, St. Louis, MO
+  * Required strong customer service and analytical skills, multitasking, and mantaining accuracy in a fast-paced and open environment
+  * Duties: Manage inbound/outbound phone calls, handle customer accounts in data management systems, and assist with payments, invoices, collections, and data entry. 
+
 * 2015-2019: College Union Manager
   * Department of Student Life, SUNY Geneseo
   * Duties: overseeing other employees; acting as the go-to for various building and administrative duties
+
 
 
 ## Honors & Awards {#awards}
