@@ -10,9 +10,9 @@ redirect_from:
 
 ## Engineer & Researcher
 
-Hello! I'm BethAnna! 
+Hello! I'm BethAnna!  
 
-I love using math and engineering as languages to describe natural phenomenoa and expand our knowledge about the world. I believe knowledge and hard work both _enable_ and _inspire_ innovative solutions to real-world problems, enacting positive change (be it big or small) in the everyday lives of us and our loved ones. This has been, and continues to be, my motivation for all I do. 
+I am driven by developing practical tools, software, and models that address real-world problems through bridging theory and application. I believe rigorous and thoughtful work not only _enables_ but _inspires_ innovative, human-centered solutions that improve our understanding of and interaction with the world around us.  
 
 Check out my [Publications](https://bethanna.github.io/publications/) and [Research](https://bethanna.github.io/research/) pages for more information about my work -- or send me a message via email or [LinkedIn](https://www.linkedin.com/in/elisabeth-bethanna-thompson-jones-phd-b96994156/)!  <br>
 
