@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I'm BethAnna!  
 
-I am driven by developing practical tools, software, and models that address real-world problems through bridging theory and application. I believe rigorous and thoughtful work not only _enables_ but _inspires_ innovative, human-centered solutions that improve our understanding of and interaction with the world around us.  
+I am driven by developing practical tools, software, and models that bridge theory and application to address real-world problems. I believe rigorous and thoughtful work not only _enables_ innovation, but also _inspires_ robust human-centered solutions that improve how we interact with and understand the world around us.  
 
 Check out my [Publications](https://bethanna.github.io/publications/) and [Research](https://bethanna.github.io/research/) pages for more information about my work -- or send me a message via email or [LinkedIn](https://www.linkedin.com/in/elisabeth-bethanna-thompson-jones-phd-b96994156/)!  <br>
 
